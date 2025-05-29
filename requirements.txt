@@ -1,0 +1,7 @@
+fastapi
+starlette
+requests
+instagrapi
+python-dotenv
+TikTokApi
+Pillow
