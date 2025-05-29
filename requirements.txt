@@ -5,3 +5,4 @@ instagrapi
 python-dotenv
 TikTokApi
 Pillow
+uvicorn
